@@ -31,12 +31,10 @@ Other Comedy Events You Can Do
 
 ## The Nervous Father, Prompt by Steve Martin. OpenAI, davinci model
 
-**This is a story about The Nervous Father
-Son: "Daddy, where did I come from?"
-
-Dad: "Uh...uh...well, Tommy, well, it seems...well...why, why out of the garbage can, son. The garbage man comes and throws you in the garbage can and Mommy goes out and gets you. You see, the garbage men pick you up at the creampuff, cherry gingerbread house run by the angels with puppy faces, and the North Star wonder men with the magic seeds tiptoe ‘round the huckleberry tree."
-
-Son: "Well, where did the clock radio come from?"**
+**This is a story about The Nervous Father**
+**Son: "Daddy, where did I come from?"**
+**Dad: "Uh...uh...well, Tommy, well, it seems...well...why, why out of the garbage can, son. The garbage man comes and throws you in the garbage can and Mommy goes out and gets you. You see, the garbage men pick you up at the creampuff, cherry gingerbread house run by the angels with puppy faces, and the North Star wonder men with the magic seeds tiptoe ‘round the huckleberry tree."**
+**Son: "Well, where did the clock radio come from?"**
 
 Dad: "Out of the garbage can...no, no, no, out of the garbage can, son. The garbage man came, and he threw it in the garbage can, and Mommy went out and got it. The garbage men went to the cherry gingerbread house run by the angels and picked up the clock radio, and took it right to your house. You see, the clock radio goes off and you wake up and say, ‘Daddy, I want a clock radio.’"
 
