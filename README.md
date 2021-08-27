@@ -12,3 +12,18 @@ I felt like I had to get out of there. And I thought, “I want to live my life 
 
 I was walking out of the mall. I was walking out of the mall with my pants still down. It was a beautiful day.
 
+## Comedy Ideas, Prompt by Steve Martin. OpenAI, davinci model
+
+**Comedy Events You Can Do
+Put an atomic bomb up your nose, go to a party and take out a handkerchief**. Then pretend to blow your nose, simultaneously triggering the bomb. When you put your handkerchief back in the handkerchief holder, the bomb will explode. The people will be so excited that they will give you big tips.
+Other Comedy Events You Can Do
+1. Pretend to be a juggler and juggle anvils. Other jugglers will be so impressed that they will give you big tips.
+2. Dress like a chicken and cluck like a chicken.
+3. Speak in a British accent. Americans will find you very amusing and give you big tips.
+4. Invent a new language and speak it. Americans will find you very amusing and give you big tips.
+5. Read a mystery novel. Americans will find you very amusing and give you big tips.
+6. Steal a newspaper and read it. Americans will find you very amusing and give you big tips.
+7. Make funny faces. Americans will find you very amusing and give you big tips.
+8. Put a cabbage on your head. Americans will find you very amusing and give you big tips.
+9. Speak gibberish. Americans will find you very amusing and give you big tips.
+
