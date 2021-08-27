@@ -1,5 +1,7 @@
 # ai-musings
 
+Prompts in bold
+
 ## The Meaning of Life. OpenAI, ada model
 
 **"What is the meaning of life?”** and I had no answer to give because I had no idea what my answer would be. I had spent an hour with people who were different from me but I did not think that I could ever understand them, in the same way that I could not relate to people who are ten years my senior. And yet, what I did understand was that life is a journey; it’s a journey of seeing the world in new ways, being open to new experiences, trying new things, and generally having a great time. And also, I know that I have never looked at a person who is different from me and thought, “Wow, that’s a really great person.”
@@ -27,3 +29,23 @@ Other Comedy Events You Can Do
 8. Put a cabbage on your head. Americans will find you very amusing and give you big tips.
 9. Speak gibberish. Americans will find you very amusing and give you big tips.
 
+## The Nervous Father, Prompt by Steve Martin. OpenAI, davinci model
+
+**This is a story about The Nervous Father
+Son: "Daddy, where did I come from?"
+
+Dad: "Uh...uh...well, Tommy, well, it seems...well...why, why out of the garbage can, son. The garbage man comes and throws you in the garbage can and Mommy goes out and gets you. You see, the garbage men pick you up at the creampuff, cherry gingerbread house run by the angels with puppy faces, and the North Star wonder men with the magic seeds tiptoe ‘round the huckleberry tree."
+
+Son: "Well, where did the clock radio come from?"**
+
+Dad: "Out of the garbage can...no, no, no, out of the garbage can, son. The garbage man came, and he threw it in the garbage can, and Mommy went out and got it. The garbage men went to the cherry gingerbread house run by the angels and picked up the clock radio, and took it right to your house. You see, the clock radio goes off and you wake up and say, ‘Daddy, I want a clock radio.’"
+
+Son: "Well, where did the puppy come from?"
+
+Dad: "Out of the garbage can...no, no, no, out of the garbage can, son. The garbage man came and threw it in the garbage can, and Mommy went out and got it. The garbage men went to the cherry gingerbread house run by the angels and picked up the puppy, and took it right to your house. You see, the puppy goes 'woof' and you say, ‘Daddy, I want a puppy.’"
+
+Son: "Well, where did the...the...the...the remote control come from?"
+
+Dad: "Out of the garbage can...no, no, no, out of the garbage can, son. The garbage man came and threw it in the garbage can, and Mommy went out and got it. The garbage men went to the cherry gingerbread house run by the angels and picked up the remote control, and took it right to your house. You see, the remote control goes ‘click, click, click, click’ and you change the channel and go to sleep."
+
+Son: "Well...where did the...the...the...the...the...the...the...the...the...the...the...the...the...the...the...the...the...the...the...the...the...the...the...the...the...the...the...the...the... (repeat)
